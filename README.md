@@ -4,8 +4,8 @@
   2018
   GNU General Public License
 
-  Fun Python code to crack the WW2 German Enigma code, using similar method to the Turing Bombe machines,
-  adapted & modernised to run on current hardware.
+  Fun Python code to crack the WW2 German Enigma code, using similar method to the mechanical Turing Bombe 
+  machines, adapted & modernised to run on current hardware.
 
   Relies on a guessable crib word at the beginning of each message (eg. WETTERVORHERSAGEBISKAYA - 
   German for weather report in the Biscay region, a regularly sent and intercepted message).
